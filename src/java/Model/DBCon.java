@@ -7,7 +7,7 @@ public class DBCon {
     public static Connection getConnection()throws Exception{
         Class.forName("com.mysql.cj.jdbc.Driver");
         Connection con = DriverManager.getConnection(
-            "jdbc:mysql://localhost:3306/laylacoffee", "root", "root");
+            "jdbc:mysql://mysql.railway.internal:3306/railway", "root", "OMGJcFwOFLdQedfGBDrrZeQRvXMqjjXv");
         
         return con;
     }

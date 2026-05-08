@@ -1,0 +1,15 @@
+Model.ChangeStatusToMain
+Model.IDDesc
+Model.PriceDesc
+Model.Search
+Model.IDAsc
+Model.Sort
+Model.GetDetailedProduct
+Model.NameAsc
+Model.GetPage
+Model.CompanyAsc
+Model.PriceAsc
+Model.ListAllProducts
+Model.NameDesc
+Model.CompanyDesc
+Model.Catalog
