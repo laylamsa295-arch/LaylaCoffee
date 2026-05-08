@@ -1,0 +1,45 @@
+#container{
+width:90%;
+margin: 0 auto;
+}
+#header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+#logo {
+    width: 120px;
+    margin-bottom: 50px;
+}
+
+#h1 {
+    margin: 0;
+}
+
+#user{
+float: left;
+width: 15%;
+}
+#catalog{
+float:left;
+width: 70%;
+}
+#cart{
+float:left;
+width:15%;
+}
+#footer{
+float:left;
+width:100%;
+padding-top: 5px;
+border-top: 3px solid black;
+margin:10px 0px;
+}
+#product{float: left; margin: 20px auto;}
+#details{white-space: pre-line; font-family: inherit; padding: 5px;}
+#pages{float: left; margin: 20px auto; width: 100%;}
+
+
+
